@@ -1,0 +1,11 @@
+# virtualenv
+airbnb_env/
+
+# Finder stuff
+.DS_Store
+
+# checkpoints
+.ipynb_checkpoints
+
+# data
+/data
