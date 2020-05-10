@@ -6,7 +6,7 @@ This repository contains code analyzing San-Francisco and Austin data from 2020.
 
 Data can be found [here](http://insideairbnb.com/get-the-data.html).
 
-A blog post summarizing more details can be found [here](https://medium.com@imizezekwhat-the-animates-and-the-inanimates-are-saying-about-airbnb-in-san-francisco-and-austin-9705f7abf7bf
+A blog post summarizing more details can be found [here](https://medium.com/@imizezek/what-the-animates-and-the-inanimates-are-saying-about-airbnb-in-san-francisco-and-austin-9705f7abf7bf)
 
 ### Table of Contents
 1. [Introduction](#introduction)
