@@ -2,7 +2,13 @@
 <p align="center">
   <img src="https://i2.wp.com/www.contemporist.com/wp-content/uploads/2020/03/modern-circle-headboard-bedroom-design-backlit-180320-1112-01.jpg">
 </p>
-This repository contains code analyzing San-Francisco and Austin data from 2020. The data can be found [here](http://insideairbnb.com/get-the-data.html). A blog post summarizing more details can be found [here](https://medium.com/@imizezek/what-the-animates-and-the-inanimates-are-saying-about-airbnb-in-san-francisco-and-austin-9705f7abf7bf)
+This repository contains code analyzing San-Francisco and Austin data from 2020. 
+
+Data can be found:
+[here](http://insideairbnb.com/get-the-data.html). A blog post summarizing more details can be found 
+
+Medium post can be found:
+[here](https://medium.com/@imizezekwhat-the-animates-and-the-inanimates-are-saying-about-airbnb-in-san-francisco-and-austin-9705f7abf7bf) 
 
 ### Table of Contents
 1. [Introduction](#introduction)
@@ -28,10 +34,6 @@ Steps followed in this project:
 - **Data Processing:** Applied certain data cleaning and wrangling techniques, handled missing data, impute where necessary, removed the outliers, and perform some text preprocessing.
 - **Modeling:** Answer questions by using appropriate aggregrate method following statistical standards.
 - **Evaluation:** Present the result of the analysis in form of tables and graphs.
-
-![Seattle Downtown](https://github.com/chaitanyakasaraneni/seattle_airbnb_dataAnalysis/blob/master/images/seattle_downtown.jpg)
-<p align="center">Seattle Downtown (Source:  <a href="https://www.flickr.com/photos/tiffany98101/15623134190">Flickr</a>)</p>
-
 
 ### Prerequisites<a name="prerequisites"></a>
 You can check the requirements.txt file for the prerequisites
