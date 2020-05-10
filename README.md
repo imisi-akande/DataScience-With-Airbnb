@@ -57,11 +57,11 @@ listing.csv, calendar.csv and reviews.csv
 
 ### Running the code<a name="running"></a>
 
-There are three files:
-- [`CaliforniaTexasAirbnb.ipynb`](http://localhost:8888/notebooks/CaliforniaTexasAirbnb.ipynb) 
+There are two files:
+- [`CaliforniaTexasAirbnb.ipynb`](https://github.com/imisi-akande/DataScience-With-Airbnb/blob/develop/CaliforniaTexasAirbnb.ipynb) 
 The listing and calendar data files where employed for analysis in this notebook
 The analysis of trends for availability, unavailability and price of properties all through the year, analysis of how price can contribute to unavailability, analysis showing how factors such as number of bedrooms and guest included contribute to prices, the best services in terms of property type and cancellation policy you can get at a specific price.
-- [`AirbnbReviewSentimentAnalysis.ipynb`](http://localhost:8888/notebooks/Airbnb%20review%20sentiment%20analysis.ipynb)
+- [`AirbnbReviewSentimentAnalysis.ipynb`](https://github.com/imisi-akande/DataScience-With-Airbnb/blob/develop/AirbnbReviewSentimentAnalysis.ipynb)
 The listing and review data files where employed for analysis in this notebook
 Guests comments where labelled as positive, negative and neutal class using the review score ratings. The analysis for the most frequent words was performed
 
