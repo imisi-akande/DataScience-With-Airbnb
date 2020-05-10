@@ -17,7 +17,7 @@ A blog post summarizing more details can be found [here](https://medium.com/@imi
 6. [Acknowledgements](#acknowledgements)
 
 ### Introduction<a name="introduction"></a>
-In this repository, I shall be analyzing AirBnB calendar data of Austin and San-Francisco from January, 2020 to December, 2020. Also the listing and review data. The aim of this project is to gain useful insight from the data and solve certain problems via questions:
+In this repository, We shall be analyzing AirBnB calendar data of Austin and San-Francisco from January, 2020 to December, 2020. Also the listing and review data. The aim of this project is to gain useful insight from the data and solve certain problems via questions:
 
 1. Which cities have more expensive homestay across different times of the year(Austin or San Francisco) per availability?
 2. Do I stand the chance to incur more costs on the request for additional services?
@@ -34,16 +34,18 @@ Steps followed in this project:
 - **Evaluation:** Present the result of the analysis in form of tables and graphs.
 
 ### Prerequisites<a name="prerequisites"></a>
-- Install anaconda to manage your data environment[here](https://www.anaconda.com/products/individual)
-- Run conda -V on your terminal to confirm conda is installed and its in your path 
+- Install anaconda to manage your data environment [here](https://www.anaconda.com/products/individual)
+- run conda -V on your terminal to confirm conda is installed and its in your path 
 - To create conda environment with a specific python version run `conda create -n airbnb-env python=3.7`
 - To activate the virtual environment run `conda activate airbnb-env`  or `source activate airbnb-env`
 - Next, you can add your virtual environment to Jupyter by running: `python -m ipykernel install --user --name=airbnb-env`
 - Check if its among the kernel list with `jupyter kernelspec list`
 - conda install jupyter to install jupyter notebook
-- Run `jupyter notebook` to start the interactive environment
+- run `conda install pip`
+- check the `requirements.txt` file for the prerequisites
+- run `pip install -r requirements.txt` to install necessary packages
+- run `jupyter notebook` to start the interactive environment
 
-You can check the requirements.txt file for the prerequisites
 - Pandas (data manipulation and analysis)
 - NumPy (scientific computing)
 - Matplotlib (visualizations)
