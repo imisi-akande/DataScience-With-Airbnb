@@ -4,11 +4,9 @@
 </p>
 This repository contains code analyzing San-Francisco and Austin data from 2020. 
 
-Data can be found:
-[here](http://insideairbnb.com/get-the-data.html). A blog post summarizing more details can be found 
+Data can be found [here](http://insideairbnb.com/get-the-data.html).
 
-Medium post can be found:
-[here](https://medium.com/@imizezekwhat-the-animates-and-the-inanimates-are-saying-about-airbnb-in-san-francisco-and-austin-9705f7abf7bf) 
+A blog post summarizing more details can be found [here](https://medium.com@imizezekwhat-the-animates-and-the-inanimates-are-saying-about-airbnb-in-san-francisco-and-austin-9705f7abf7bf
 
 ### Table of Contents
 1. [Introduction](#introduction)
@@ -36,6 +34,15 @@ Steps followed in this project:
 - **Evaluation:** Present the result of the analysis in form of tables and graphs.
 
 ### Prerequisites<a name="prerequisites"></a>
+- Install anaconda to manage your data environment[here](https://www.anaconda.com/products/individual)
+- Run conda -V on your terminal to confirm conda is installed and its in your path 
+- To create conda environment with a specific python version run `conda create -n airbnb-env python=3.7`
+- To activate the virtual environment run `conda activate airbnb-env`  or `source activate airbnb-env`
+- Next, you can add your virtual environment to Jupyter by running: `python -m ipykernel install --user --name=airbnb-env`
+- Check if its among the kernel list with `jupyter kernelspec list`
+- conda install jupyter to install jupyter notebook
+- Run `jupyter notebook` to start the interactive environment
+
 You can check the requirements.txt file for the prerequisites
 - Pandas (data manipulation and analysis)
 - NumPy (scientific computing)
