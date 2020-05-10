@@ -28,7 +28,7 @@ In this repository, I shall be analyzing AirBnB calendar data of Austin and San-
 5. Which of the room types is popular in San Francisco versus Austin?
 5. What are property renters saying about their experiences in reviews?
 
-This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology. 
+This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology.
 Steps followed in this project:
 - **Business objective:** Analyze trends of availability, unavailability and price of properties all through the year, discuss how price can contribute to unavailability, factors that influence prices(does the number of bedrooms and guest included contribute to price), the best services in terms of property type and cancellation policy you can get at a price of $200 per day, the most popular Airbnb room type in the two cities, and what guests say about their experience with Airbnb.
 - **Data Processing:** Applied certain data cleaning and wrangling techniques, handled missing data, impute where necessary, removed the outliers, and perform some text preprocessing.
@@ -50,7 +50,7 @@ listing.csv, calendar.csv and reviews.csv
 
 ### Running the code<a name="running"></a>
 
-There are three files :
+There are three files:
 - [`CaliforniaTexasAirbnb.ipynb`](http://localhost:8888/notebooks/CaliforniaTexasAirbnb.ipynb) 
 The listing and calendar data files where employed for analysis in this notebook
 The analysis of trends for availability, unavailability and price of properties all through the year, analysis of how price can contribute to unavailability, analysis showing how factors such as number of bedrooms and guest included contribute to prices, the best services in terms of property type and cancellation policy you can get at a specific price.
