@@ -34,6 +34,7 @@ Steps followed in this project:
 - **Evaluation:** Present the result of the analysis in form of tables and graphs.
 
 ### Prerequisites<a name="prerequisites"></a>
+*Steps to install*
 - Install anaconda to manage your data environment [here](https://www.anaconda.com/products/individual)
 - run conda -V on your terminal to confirm conda is installed and its in your path 
 - To create conda environment with a specific python version run `conda create -n airbnb-env python=3.7`
@@ -46,6 +47,8 @@ Steps followed in this project:
 - run `pip install -r requirements.txt` to install necessary packages
 - run `jupyter notebook` to start the interactive environment
 
+--------------------------------------------------------------------------------
+*Packages to install*
 - Pandas (data manipulation and analysis)
 - NumPy (scientific computing)
 - Matplotlib (visualizations)
