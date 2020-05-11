@@ -24,7 +24,7 @@ In this repository, We shall be analyzing AirBnB calendar data of Austin and San
 3. Joshua plans for vacation, where will he obtain better services for a price of 200 dollars per day: SF or Austin?
 4. In the situation whereby Joshua's plan changes, which of the cities is more lenient with the cancellation policy?
 5. Which of the room types is popular in San Francisco versus Austin?
-5. What are property renters saying about their experiences in reviews?
+5. What are property renters saying the most about their experiences in reviews? Positive or Negative
 
 This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology.
 Steps followed in this project:
