@@ -9,3 +9,9 @@ airbnb_env/
 
 # data
 /data
+
+# csv files
+./csv/
+
+# pickled file
+./features_set_with_100_words.pql
